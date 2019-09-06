@@ -1,0 +1,242 @@
+#header img {
+    width: 180px;
+}
+#header a {
+    /* color: #bf8d50; */
+    padding-left: 20px;
+}
+.text-book {
+    color: #1babbf !important;
+    font-weight: bold;
+}
+.text-book:hover {
+    color: #57dad8;
+    font-weight: bold;
+}
+
+#main .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+}
+
+.main_text {
+    margin-left: 3rem;
+}
+
+.main_p {
+    font-family: 'Noto Sans', sans-serif;
+    color: #57dad8;
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+#footer {
+    background-color: #f2e2c4;
+}
+
+#footer a {
+    font-family: 'Noto Sans', sans-serif;
+    color: #bf8d50;
+}
+#footer p {
+    font-family: 'Noto Sans', sans-serif;
+    color: #bf8d50;
+}
+
+h1 {
+    font-family: 'DM Serif Display', serif;
+    font-style: italic;
+    color: #57dad8;
+    font-size: 3.3rem;
+    margin-top: 1rem;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: 'DM Serif Display', serif;
+    font-style: italic;
+    color: #57dad8;
+    font-size: 2rem;
+    margin-top: 3rem;
+}
+
+.card-title-plans {
+    padding-left: 24px;
+    padding-top: 20px;
+    
+}
+.btn-book {
+    background-color: #1babbf;
+    color: white;
+    border-radius: 30px;
+}
+
+.btn-book:hover {
+    background-color: #57dad8;
+    color: white;
+    
+}
+
+#btn_send{
+    background-color: #1babbf;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    width: 400px;
+}
+#btn_send:hover {
+    background-color: #57dad8;
+    color: white;
+}
+
+
+hr {
+    background-color: #57dad8;
+    margin-top: 8px;
+    margin-bottom: 45px;
+}
+
+.card-title {
+    color: #57dad8;
+}
+.card-title-question {
+    color: #57dad8;
+    font-style: italic;
+}
+
+.card-text{
+    color: rgb(107, 107, 107);
+}
+.body {
+    color: rgb(107, 107, 107);
+}
+#location_card {
+    border: none;
+}
+#ceremony_card{
+    border: none;
+}
+.card-body-nota {
+    color: #1babbf;
+    font-size: 12px;
+    font-style: italic;
+    padding: 10px 10px;
+}
+
+#nota_card{
+    border: 1px solid #1babbf;
+}
+.card-title-plans {
+    color: white;
+}
+.card-body-plans {
+    background-color: #1babbf;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card-title-plans {
+    height: 55px;
+    color: white;
+}
+
+#plan-card {
+    border: 1px solid #17a2b8;
+}
+
+.list-group-item {
+    border: white;
+}
+
+#plan-card a {
+    font-size: 12px;
+}
+
+#card_sub {
+    color: #57dad8;
+    font-size: 1.2rem;
+}
+
+.form-control {
+    border: 1px solid #17a2b8;
+}
+
+/* #formGroupExampleInput {
+    color: #57dad8;
+} */
+
+
+
+.form-group {
+    margin-bottom: 2rem;
+}
+
+
+.wed-pack-tit {
+    margin-bottom: 0;
+}
+
+.req {
+    font-size: .8rem;
+    font-style: italic;
+}
+
+.card-img-top-test {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+    border: 5px solid #17a2b8;
+}
+#testimonial_card {
+    border: white;
+}
+
+#quote {
+    font-style: italic;
+    color: #1babbf;
+    font-size: 1.2rem;
+}
+
+#quote-name {
+    font-style: italic;
+    color: #1babbf;
+    font-weight: bold;
+}
+.img-fluid {
+    margin-bottom: 5rem;
+}
+
+.positivo {
+    width: 45px;
+    margin: auto;
+}
+.negativo {
+    width: 45px;
+    margin: auto;
+}
+
+#table_price {
+    color: #17a2b8;
+}
+#table_note {
+    font-style: italic;
+    font-size: .8rem;
+}
+
+.table td {
+    text-align: center;
+}
+.table th {
+    text-align: center;
+}
+
+.logo_redes {
+    max-width: 30px;
+    margin-left: 10px;
+}
